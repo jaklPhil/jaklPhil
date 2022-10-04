@@ -39,7 +39,7 @@ Other&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaklphil&layout=compact&card_width=500&hide_title=true)](https://github.com/jaklphil/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaklphil&layout=compact&hide_title=true)](https://github.com/jaklphil/github-readme-stats)
 
 <!--
 **jaklPhil/jaklPhil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
