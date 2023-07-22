@@ -1,20 +1,22 @@
 <img src="assets/top-animated.svg">
 
-I’m a student of Energy Engineering and Resource Optimization :electric_plug: majoring in <b>Energy Informatics</b> at the [Hochschule Hamm-Lippstadt](https://www.hshl.de/studieren/studiengaenge/bachelorstudiengaenge/energietechnik-und-ressourcenoptimierung). 
-<br>I enjoy combining my engineering skills with Web and IoT development to find solutions for real-world applications and challenges.
+# Hi there! 👋 I'm [Your Name]
 
+🎓 Recent Energy Engineering and Resource Optimization graduate, with a specialization in **Energy Informatics** from [Hochschule Hamm-Lippstadt](https://www.hshl.de/studieren/studiengaenge/bachelorstudiengaenge/energietechnik-und-ressourcenoptimierung).
 
-:construction: At the Moment I'm writing my bachelor Thesis for a medium sized company. My project is to develop a <b>Full Stack</b> Web-Application for calculating and ordering tailormade electromagnets using Angular and Node.js.
+💡 I enjoy combining my engineering skills with web and IoT development to create innovative solutions for real-world applications and challenges.
 
-<!-- :construction: Currently working on my final thesis I´m developing a Full Stack Web-Application for calculating and ordering tailormade electromagnets with Angular and Node.js for a medium sized enterprise. -->
+🔨 Currently, I'm working as a Software Engineer with a focus on Spring Boot and Java for backend development.
 
-🌱 I'm always eager to learn new skills. Learning never ends!
+🌐 In the past, I've developed a **Full Stack** Web Application for calculating and ordering tailor-made electromagnets, utilizing Angular for the frontend and Node.js for the backend. It was part of my bachelor's thesis and a project I'm proud of.
 
-📫 How to reach me: <nobr>jan-philipp.klein@stud.hshl.de</nobr>
+📫 How to reach me: <nobr>jan.philipp.klein.96@gmail.com</nobr>
 
 **Languages and Tools:** 
 
 Web&nbsp;&nbsp;
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-black?logo=SpringBoot&style=social)&nbsp;&nbsp;
+![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?logo=typescript&style=social)&nbsp;&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-black?logo=angular&style=social)&nbsp;&nbsp;
