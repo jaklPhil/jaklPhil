@@ -1,14 +1,16 @@
 <img src="assets/top-animated.svg">
 
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Jan Philipp
 
-🎓 Recent Energy Engineering and Resource Optimization graduate, with a specialization in **Energy Informatics** from [Hochschule Hamm-Lippstadt](https://www.hshl.de/studieren/studiengaenge/bachelorstudiengaenge/energietechnik-und-ressourcenoptimierung).
+🔨 Currently, I'm working as a Software Engineer with a focus on Spring Boot and Java.
+
+🎓 Energy Engineering and Resource Optimization graduate, with a specialization in **Energy Informatics** from [Hochschule Hamm-Lippstadt](https://www.hshl.de/studieren/studiengaenge/bachelorstudiengaenge/energietechnik-und-ressourcenoptimierung).
 
 💡 I enjoy combining my engineering skills with web and IoT development to create innovative solutions for real-world applications and challenges.
 
-🔨 Currently, I'm working as a Software Engineer with a focus on Spring Boot and Java for backend development.
-
-🌐 In the past, I've developed a **Full Stack** Web Application for calculating and ordering tailor-made electromagnets, utilizing Angular for the frontend and Node.js for the backend. It was part of my bachelor's thesis and a project I'm proud of.
+<!-- 
+🌐 In the past, I've developed a **Full Stack** Web Application for calculating and ordering tailor-made electromagnets, utilizing Angular for the frontend and Node.js for the backend. It was part of my bachelor's thesis. 
+--> 
 
 📫 How to reach me: <nobr>jan.philipp.klein.96@gmail.com</nobr>
 
@@ -42,19 +44,3 @@ Other&nbsp;&nbsp;
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaklphil&layout=compact&hide_title=true)](https://github.com/jaklphil/github-readme-stats)
-
-<!--
-**jaklPhil/jaklPhil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![HTML](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
-![CSS](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
-Here are some ideas to get you started:
-
-- 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
